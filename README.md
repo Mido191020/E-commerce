@@ -1,1 +1,1 @@
-# E-commerce
+This repository is made to make it easy for our team to communicate with each other. Every member will upload his copy of the code with his modification to the code, so every member will always know the updates. This repository will help avoid and reduce the reasons of errors.          
